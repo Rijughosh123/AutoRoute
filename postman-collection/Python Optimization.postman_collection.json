@@ -1,0 +1,193 @@
+{
+	"info": {
+		"_postman_id": "10b04a91-7b31-4c6f-91c0-3999941595ca",
+		"name": "Python Optimization",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Route Optimize",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "SuperSecretPwd",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "admin",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/v1/routeoptimize?list_id=344",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"v1",
+						"routeoptimize"
+					],
+					"query": [
+						{
+							"key": "list_id",
+							"value": "344"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Route Optimize Time",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "SuperSecretPwd",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "admin",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/v1/timerouting?list_id=344",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"v1",
+						"timerouting"
+					],
+					"query": [
+						{
+							"key": "list_id",
+							"value": "344"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "CVRPT",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "SuperSecretPwd",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "admin",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/v1/capacitytimerouting?list_id=344",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"v1",
+						"capacitytimerouting"
+					],
+					"query": [
+						{
+							"key": "list_id",
+							"value": "344"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Single Route Optimize",
+			"request": {
+				"auth": {
+					"type": "basic",
+					"basic": [
+						{
+							"key": "password",
+							"value": "SuperSecretPwd",
+							"type": "string"
+						},
+						{
+							"key": "username",
+							"value": "admin",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://127.0.0.1:5000/api/v1/singlerouteoptimize?list_id=344&route_id=81",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "5000",
+					"path": [
+						"api",
+						"v1",
+						"singlerouteoptimize"
+					],
+					"query": [
+						{
+							"key": "list_id",
+							"value": "344"
+						},
+						{
+							"key": "route_id",
+							"value": "81"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -1,0 +1,808 @@
+
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:8001
+ * Running on https://167.71.235.105:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-178-638
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:8001
+ * Running on https://167.71.235.105:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-178-638
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on https://dev8.mydevfactory.com:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-178-638
+INFO:werkzeug: * Detected change in '/var/www/dev8.mydevfactory.com/auto_route/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-178-638
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:8001
+ * Running on https://167.71.235.105:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-178-638
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:8001
+ * Running on https://167.71.235.105:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-178-638
+INFO:werkzeug:122.163.3.15 - - [08/Nov/2023 10:52:50] "GET /api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:122.163.3.15 - - [08/Nov/2023 10:54:20] "GET /api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: https://dev8.mydevfactory.com:8001/api/v1/
+ERROR:root:Request Method: GET
+INFO:werkzeug:110.227.203.81 - - [08/Nov/2023 10:55:05] "[35m[1mGET /api/v1/ HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: https://dev8.mydevfactory.com:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:110.227.203.81 - - [08/Nov/2023 10:55:05] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: https://dev8.mydevfactory.com:8001/api/v1/
+ERROR:root:Request Method: GET
+INFO:werkzeug:110.227.203.81 - - [08/Nov/2023 10:55:09] "[35m[1mGET /api/v1/ HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: https://dev8.mydevfactory.com:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:110.227.203.81 - - [08/Nov/2023 10:55:09] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on https://127.0.0.1:8001
+ * Running on https://167.71.235.105:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-178-638
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://dev8.mydevfactory.com:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-178-638
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://dev8.mydevfactory.com:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-178-638
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8001
+ * Running on http://167.71.235.105:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-178-638
+ERROR:werkzeug:91.240.118.29 - - [08/Nov/2023 11:01:25] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+INFO:werkzeug:91.240.118.29 - - [08/Nov/2023 11:01:25] "[35m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8001
+ * Running on http://167.71.235.105:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-178-638
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-178-638
+INFO:werkzeug: * Detected change in '/var/www/dev8.mydevfactory.com/auto_route/main.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-178-638
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:18:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:18:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:19:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8001
+ * Running on http://167.71.235.105:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-178-638
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:20:40] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8001
+ * Running on http://167.71.235.105:8001
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-178-638
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:21:05] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:21:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:21:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:21:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:23:08] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:23:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:23:45] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:23:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:24:04] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:27:59] "GET //api/v1/new_route_plan/with_break?list_id=719 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:29:37] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:31:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:32:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:32:06] "GET //api/v1/new_route_plan/with_break?list_id=720 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:32:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:35:14] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:35:49] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+ERROR:werkzeug:127.0.0.1 - - [08/Nov/2023 11:36:27] code 400, message Bad request version ("GÔ¾1\x90ÖN\x806÷¸Xo\x9céÀn9]¢\x05§õ¤\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ")
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:36:27] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03s»û\x89Ol{\x14§4.Í\x81ÍN$`\x8b×Në*°Lg\x9d\x96µ\x0b\x9bM\x8a I|\x8cñ$Ë\x8c\x0bGÔ¾1\x90ÖN\x806÷¸Xo\x9céÀn9]¢\x05§õ¤\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:43:44] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:46:09] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:50:08] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:54:45] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:56:01] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:57:39] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:58:46] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 11:59:50] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:02:01] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:02:58] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:10:13] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:13:45] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:14:01] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:15:07] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:16:43] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:17:38] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:18:10] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:19:57] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:21:23] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:22:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:23:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:23:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:23:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:23:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:23:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/var/www/dev8.mydevfactory.com/auto_route/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-178-638
+ERROR:root:An error occurred: Object of type Response is not JSON serializable
+ERROR:root:Request URL: http://127.0.0.1:8001/api/v1/new_route_plan/with_break
+ERROR:root:Request Method: GET
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:24:37] "[35m[1mGET //api/v1/new_route_plan/with_break HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: Object of type Response is not JSON serializable
+ERROR:root:Request URL: http://127.0.0.1:8001/api/v1/new_route_plan/with_break
+ERROR:root:Request Method: GET
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:26:30] "[35m[1mGET //api/v1/new_route_plan/with_break HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/var/www/dev8.mydevfactory.com/auto_route/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 143-178-638
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:26:58] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:27:28] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:29:15] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:31:35] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:32:30] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:33:01] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:40:13] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 12:50:24] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 13:00:19] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 13:01:43] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 13:03:39] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 13:03:47] "GET //api/v1/new_route_plan/with_break?list_id=720 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 13:03:52] "GET //api/v1/new_route_plan/with_break?list_id=720 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 13:05:13] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 13:06:14] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 13:07:24] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 13:08:01] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 13:09:43] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 13:11:34] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 13:11:53] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [08/Nov/2023 13:25:46] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+ERROR:werkzeug:198.199.108.17 - - [09/Nov/2023 00:53:05] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:198.199.108.17 - - [09/Nov/2023 00:53:05] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ã\x9b¹0k\x080­xßÂ\x03\x1c\x0c[¨0¯*ÜkAØ\x11\x89\x8bÙ\x10BQY0\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:194.165.16.10 - - [09/Nov/2023 01:41:53] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+INFO:werkzeug:194.165.16.10 - - [09/Nov/2023 01:41:53] "[35m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:167.248.133.123 - - [09/Nov/2023 04:07:03] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:167.248.133.123 - - [09/Nov/2023 04:07:03] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x95i\x056\x13\x85½zQkb$!L\\Ñ\x18Wâ¡w\x92´Æ6öï\x8cÏ\x08HJ mY«¸\\\x1bÛ¨Eyú°²¼)¥Â»\x7fæýÞ\x89H\x8ftZ¾ô¨Ó£\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:167.248.133.123 - - [09/Nov/2023 04:07:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:167.248.133.123 - - [09/Nov/2023 04:07:05] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:167.248.133.123 - - [09/Nov/2023 04:07:06] code 505, message Invalid HTTP version (2.0)
+INFO:werkzeug:167.248.133.123 - - [09/Nov/2023 04:07:06] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:167.248.133.123 - - [09/Nov/2023 04:07:06] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 05:37:07] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 05:38:03] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:64.62.197.51 - - [09/Nov/2023 05:48:08] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:64.62.197.56 - - [09/Nov/2023 05:48:20] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:64.62.197.55 - - [09/Nov/2023 05:48:24] "GET http://api.ipify.org/?format=json HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://www.shadowserver.org/www.shadowserver.org:443
+ERROR:root:Request Method: CONNECT
+INFO:werkzeug:64.62.197.53 - - [09/Nov/2023 05:48:27] "[35m[1mCONNECT www.shadowserver.org:443 HTTP/1.1[0m" 500 -
+ERROR:werkzeug:192.155.90.118 - - [09/Nov/2023 06:41:29] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:192.155.90.118 - - [09/Nov/2023 06:41:29] "[35m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03z¾\x13\x14y\x8dt\x08ìÏ\x09\x07\x94«3\x0f\x12/\x06\x12{Çªc'\x8b\x90Ë^ÈTë\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:45.79.163.53 - - [09/Nov/2023 07:05:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 07:05:18] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:45.79.128.205 - - [09/Nov/2023 07:05:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 07:23:21] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Nov/2023 07:41:56] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+ERROR:werkzeug:65.49.20.68 - - [09/Nov/2023 10:17:51] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:65.49.20.68 - - [09/Nov/2023 10:17:51] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03jOéá#mìa\x8e\x8dº\x1bY\x03ªªX:UpHV\x93Ñ\x1cÛÅfÍC\x99í\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:77.76.139.3 - - [09/Nov/2023 12:42:57] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/chklst.txt
+ERROR:root:Request Method: GET
+INFO:werkzeug:201.219.84.64 - - [09/Nov/2023 12:42:58] "[35m[1mGET /chklst.txt HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/common/info.cgi
+ERROR:root:Request Method: GET
+INFO:werkzeug:88.80.131.206 - - [09/Nov/2023 12:42:59] "[35m[1mGET /common/info.cgi HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/HNAP1/
+ERROR:root:Request Method: GET
+INFO:werkzeug:14.136.84.238 - - [09/Nov/2023 12:43:00] "[35m[1mGET /HNAP1/ HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/getBasicInformation
+ERROR:root:Request Method: GET
+INFO:werkzeug:201.219.110.46 - - [09/Nov/2023 12:43:01] "[35m[1mGET /getBasicInformation HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/currentsetting.htm
+ERROR:root:Request Method: GET
+INFO:werkzeug:201.219.71.167 - - [09/Nov/2023 12:43:02] "[35m[1mGET /currentsetting.htm HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/api/system/deviceinfo
+ERROR:root:Request Method: GET
+INFO:werkzeug:218.255.155.202 - - [09/Nov/2023 12:43:03] "[35m[1mGET /api/system/deviceinfo HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/dniapi/userInfos
+ERROR:root:Request Method: GET
+INFO:werkzeug:201.219.108.116 - - [09/Nov/2023 12:43:04] "[35m[1mGET /dniapi/userInfos HTTP/1.1[0m" 500 -
+INFO:werkzeug:47.236.110.252 - - [09/Nov/2023 14:50:16] "GET / HTTP/1.0" 200 -
+INFO:werkzeug:47.236.110.252 - - [09/Nov/2023 14:50:18] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/sitemap.xml
+ERROR:root:Request Method: GET
+INFO:werkzeug:47.236.110.252 - - [09/Nov/2023 14:50:19] "[35m[1mGET /sitemap.xml HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/robots.txt
+ERROR:root:Request Method: GET
+INFO:werkzeug:47.236.110.252 - - [09/Nov/2023 14:50:20] "[35m[1mGET /robots.txt HTTP/1.1[0m" 500 -
+INFO:werkzeug:198.20.101.98 - - [09/Nov/2023 20:37:02] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:198.20.101.98 - - [09/Nov/2023 20:52:31] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:198.20.101.98 - - [09/Nov/2023 20:52:31] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03Håæ(\x1a{Â\x16\x9f¶÷Å\x09A¹Ë,=ÁÞ¢\x9c$\x06O{\x1ed`ålÕ \x06Q¢\x071S\x1fl°X\x0eQR1\x06\x08\x01TÆî\x19D$·û+\x97\x95¦\x1e\x06ÿ\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:65.49.1.20 - - [10/Nov/2023 00:28:26] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:65.49.1.10 - - [10/Nov/2023 00:28:50] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:65.49.1.10 - - [10/Nov/2023 00:28:55] "GET http://api.ipify.org/?format=json HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://www.shadowserver.org/www.shadowserver.org:443
+ERROR:root:Request Method: CONNECT
+INFO:werkzeug:65.49.1.18 - - [10/Nov/2023 00:29:07] "[35m[1mCONNECT www.shadowserver.org:443 HTTP/1.1[0m" 500 -
+ERROR:werkzeug:162.243.144.6 - - [10/Nov/2023 04:07:06] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:162.243.144.6 - - [10/Nov/2023 04:07:06] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03G`tw¬a\x81\x1f\x15=ò$%.àvÎXp,\x80\x84`\x9cÉ\x7fÂYK\x81\x85_\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:127.0.0.1 - - [10/Nov/2023 04:53:41] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Nov/2023 05:29:59] "GET //api/v1/new_route_plan/with_break HTTP/1.1" 200 -
+INFO:werkzeug:71.6.167.142 - - [10/Nov/2023 07:35:10] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:71.6.167.142 - - [10/Nov/2023 07:35:11] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+ERROR:werkzeug:199.45.155.32 - - [10/Nov/2023 07:53:58] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:199.45.155.32 - - [10/Nov/2023 07:53:58] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03·\x03¯!êÉä\x19Z\x01Ì«à\x90?ÔÏ7èØ)Ç\x98®ò")\x9b4\x0cÄ\x18 ?\x18à\x89\x9bÓªó§\x06\x8f\x993Ã\x8b\x9a¦U¬\x8f·'Ø'ù°)KtÔ8<\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:199.45.155.32 - - [10/Nov/2023 07:54:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:199.45.155.32 - - [10/Nov/2023 07:54:02] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:199.45.155.32 - - [10/Nov/2023 07:54:03] code 505, message Invalid HTTP version (2.0)
+INFO:werkzeug:199.45.155.32 - - [10/Nov/2023 07:54:03] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:199.45.155.32 - - [10/Nov/2023 07:54:04] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+ERROR:werkzeug:64.62.197.75 - - [10/Nov/2023 07:54:07] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:64.62.197.75 - - [10/Nov/2023 07:54:07] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03x¦\x81*Æj¸Óä©Bq\x86n7òbëï\x1fÌ$\x19Ñ\x8b\x9a7¯ \x9d|ß\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:172.104.11.4 - - [10/Nov/2023 08:36:19] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:172.104.11.4 - - [10/Nov/2023 08:36:19] "[35m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03¡\x1a8\x14Ð\x00'VJÓºfåÆG\x04\x1bT2¼$!\x02Ä®Ä¡H[0£M\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:92.63.196.80 - - [10/Nov/2023 14:43:31] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00')
+INFO:werkzeug:92.63.196.80 - - [10/Nov/2023 14:43:31] "[35m[1m\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:71.6.134.230 - - [10/Nov/2023 21:13:57] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:71.6.134.230 - - [10/Nov/2023 21:29:26] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:71.6.134.230 - - [10/Nov/2023 21:29:26] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03rqØ®üäP8¥\x95\x17\x81D\x0c¢¸p\x07¼ëç¿\x1e\x99Ã\x9cX\x15Ý¶\x91[ ¾G®QN\x8bÿ\x90Ú4C\x08åw\x02ÑYP\x18J¯\x94¬åqöjk×ruõ\x00&Ì¨Ì©À/À0À+À,À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:35.203.210.118 - - [10/Nov/2023 23:48:20] code 400, message Bad request version ('À\x13À')
+INFO:werkzeug:35.203.210.118 - - [10/Nov/2023 23:48:20] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x93\x83=ÎöX\x828M+³\x87Å\x14o\x85 g¥\x14IFL#\x8e\x89ûâà£àÝ DÛè'ÇW§ü\x03-\x98ï\x1aaúüw\x0bÂö¹îV%²Â\x09@¾BcÚ\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:35.203.210.118 - - [10/Nov/2023 23:48:20] code 400, message Bad request version ('À(À$À\x14À')
+INFO:werkzeug:35.203.210.118 - - [10/Nov/2023 23:48:20] "[35m[1m\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03' t]¾¬¡5N}\x03¶_\x1c.d·\x05þ­\x8e\x87;ê]ÊÊt¹à÷ç\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\x09À(À$À\x14À[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:65.49.1.102 - - [11/Nov/2023 04:50:34] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:65.49.1.102 - - [11/Nov/2023 04:50:34] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03pèy\x03\x88«$<R\\\x91"­í§\\\x85úõ3\x92\x815Ø\x10ñ0m\x89£iV\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:192.241.223.57 - - [11/Nov/2023 05:07:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:54.187.57.220 - - [11/Nov/2023 06:36:00] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:192.155.90.220 - - [11/Nov/2023 07:12:41] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00')
+INFO:werkzeug:192.155.90.220 - - [11/Nov/2023 07:12:41] "[35m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03ºNÏ\x1a[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:104.199.31.214 - - [11/Nov/2023 07:53:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.104.11.4 - - [11/Nov/2023 08:40:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:184.105.139.69 - - [11/Nov/2023 08:45:13] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:184.105.139.69 - - [11/Nov/2023 08:45:29] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:184.105.139.69 - - [11/Nov/2023 08:45:31] "GET http://api.ipify.org/?format=json HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://www.shadowserver.org/www.shadowserver.org:443
+ERROR:root:Request Method: CONNECT
+INFO:werkzeug:184.105.139.69 - - [11/Nov/2023 08:45:34] "[35m[1mCONNECT www.shadowserver.org:443 HTTP/1.1[0m" 500 -
+ERROR:werkzeug:198.199.105.41 - - [11/Nov/2023 09:01:02] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03')
+INFO:werkzeug:198.199.105.41 - - [11/Nov/2023 09:01:02] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x1d\x85\x0euä\x96\x8aìÅ©C×¹ÂR/èéÁp\x18h¹K«srî[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:167.248.133.190 - - [11/Nov/2023 17:43:15] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:167.248.133.190 - - [11/Nov/2023 17:43:16] code 505, message Invalid HTTP version (2.0)
+INFO:werkzeug:167.248.133.190 - - [11/Nov/2023 17:43:16] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:167.248.133.190 - - [11/Nov/2023 17:43:16] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:185.233.19.197 - - [11/Nov/2023 23:22:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:103.149.26.234 - - [11/Nov/2023 23:34:39] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:103.149.26.234 - - [11/Nov/2023 23:34:39] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+ERROR:werkzeug:80.66.88.211 - - [12/Nov/2023 04:08:21] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+INFO:werkzeug:80.66.88.211 - - [12/Nov/2023 04:08:21] "[35m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/api/v2/
+ERROR:root:Request Method: GET
+INFO:werkzeug:128.14.209.34 - - [12/Nov/2023 05:45:18] "[35m[1mGET /api/v2/ HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/ms/1.0/
+ERROR:root:Request Method: GET
+INFO:werkzeug:128.14.209.34 - - [12/Nov/2023 05:45:19] "[35m[1mGET /ms/1.0/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:128.14.209.34 - - [12/Nov/2023 05:45:20] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:172.104.11.51 - - [12/Nov/2023 07:09:18] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:172.104.11.51 - - [12/Nov/2023 07:09:18] "[35m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03O­emL®Kì\x08£(EÂ\x82\x92\x8f4\x09ëó\x9d#\x99_¾ ÛÒÕÒH*\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:64.62.197.45 - - [12/Nov/2023 11:21:56] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:64.62.197.40 - - [12/Nov/2023 11:22:10] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:64.62.197.33 - - [12/Nov/2023 11:22:13] "GET http://api.ipify.org/?format=json HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://www.shadowserver.org/www.shadowserver.org:443
+ERROR:root:Request Method: CONNECT
+INFO:werkzeug:64.62.197.33 - - [12/Nov/2023 11:22:15] "[35m[1mCONNECT www.shadowserver.org:443 HTTP/1.1[0m" 500 -
+ERROR:werkzeug:65.49.20.66 - - [12/Nov/2023 13:02:24] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:65.49.20.66 - - [12/Nov/2023 13:02:24] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03m\x12hï\x8cBvæ%\x9d<\x91s\x1co\x93v£þ>¥4`\x09\x0eU'\x03°eíq\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:192.241.201.68 - - [12/Nov/2023 17:30:07] code 400, message Bad request syntax ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ÑGÀºÂ\x98gÝ\x93\x83´9³±Ó¯Ý')
+INFO:werkzeug:192.241.201.68 - - [12/Nov/2023 17:30:07] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ÑGÀºÂ\x98gÝ\x93\x83´9³±Ó¯Ý[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:176.111.174.205 - - [12/Nov/2023 22:39:48] code 400, message Bad request syntax ('\x01\x01æ')
+INFO:werkzeug:176.111.174.205 - - [12/Nov/2023 22:39:48] "[35m[1m\x01\x01æ[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:92.63.196.57 - - [12/Nov/2023 23:50:11] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00')
+INFO:werkzeug:92.63.196.57 - - [12/Nov/2023 23:50:11] "[35m[1m\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:152.32.199.73 - - [13/Nov/2023 02:33:43] code 400, message Bad request version ('\x00\x9eÌ¨Ìª\x003\x00=\x00\x16À')
+INFO:werkzeug:152.32.199.73 - - [13/Nov/2023 02:33:43] "[35m[1m\x16\x03\x01\x01\x17\x01\x00\x01\x13\x03\x03Çâ\x0f;ÀóJ+1\x0b3Þ\x9b\x1aaùv§>Hhãþüàªì>\x05Ý \x80 \x04Î¨\\7§#\x187\x1f\x86\x15Î²éÑä\x8a\x99\x13ôâ~Æ\x9f«\x82¦2\x9beb\x004Ì¨Ì©À/À0À+À,À\x09\x00\x9eÌ¨Ìª\x003\x00=\x00\x16À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:152.32.199.73 - - [13/Nov/2023 02:33:54] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:152.32.199.73 - - [13/Nov/2023 02:33:55] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/robots.txt
+ERROR:root:Request Method: GET
+INFO:werkzeug:152.32.199.73 - - [13/Nov/2023 02:33:56] "[35m[1mGET /robots.txt HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/sitemap.xml
+ERROR:root:Request Method: GET
+INFO:werkzeug:152.32.199.73 - - [13/Nov/2023 02:33:56] "[35m[1mGET /sitemap.xml HTTP/1.1[0m" 500 -
+ERROR:werkzeug:194.165.16.72 - - [13/Nov/2023 04:21:58] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+INFO:werkzeug:194.165.16.72 - - [13/Nov/2023 04:21:58] "[35m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:184.105.247.196 - - [13/Nov/2023 07:37:20] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:184.105.247.196 - - [13/Nov/2023 07:37:20] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x909+ß©ñp\x18ù\x1e¿\x9bC\x00Ë¡\x07]ß<9\x97yÆ_TizgúSM\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:192.155.90.220 - - [13/Nov/2023 07:46:25] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:192.155.90.220 - - [13/Nov/2023 07:46:25] "[35m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03eóá1-P\x82w\x8au­;W#°\x07Q-\x92¢fyQFÖ¢ÙGÇø¿@\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2023 10:29:59] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2023 10:30:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Nov/2023 10:30:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:45.79.181.179 - - [13/Nov/2023 10:36:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:64.62.197.212 - - [13/Nov/2023 11:19:10] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:64.62.197.223 - - [13/Nov/2023 11:19:26] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:64.62.197.223 - - [13/Nov/2023 11:19:29] "GET http://api.ipify.org/?format=json HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://www.shadowserver.org/www.shadowserver.org:443
+ERROR:root:Request Method: CONNECT
+INFO:werkzeug:64.62.197.218 - - [13/Nov/2023 11:19:31] "[35m[1mCONNECT www.shadowserver.org:443 HTTP/1.1[0m" 500 -
+ERROR:werkzeug:89.248.165.95 - - [13/Nov/2023 16:39:44] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+INFO:werkzeug:89.248.165.95 - - [13/Nov/2023 16:39:44] "[35m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:107.170.252.61 - - [13/Nov/2023 19:57:43] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:107.170.252.61 - - [13/Nov/2023 19:57:43] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03È&\x80NT\x09\x92\x01»Òî!@½04±[íï\x88\x1fÆ\x93»§·\x00LÆ¢j\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:64.62.197.187 - - [14/Nov/2023 00:27:31] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:64.62.197.184 - - [14/Nov/2023 00:27:43] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:64.62.197.185 - - [14/Nov/2023 00:27:48] "GET http://api.ipify.org/?format=json HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://www.shadowserver.org/www.shadowserver.org:443
+ERROR:root:Request Method: CONNECT
+INFO:werkzeug:64.62.197.186 - - [14/Nov/2023 00:27:50] "[35m[1mCONNECT www.shadowserver.org:443 HTTP/1.1[0m" 500 -
+INFO:werkzeug:167.248.133.127 - - [14/Nov/2023 03:02:44] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:167.248.133.127 - - [14/Nov/2023 03:02:45] code 505, message Invalid HTTP version (2.0)
+INFO:werkzeug:167.248.133.127 - - [14/Nov/2023 03:02:45] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:167.248.133.127 - - [14/Nov/2023 03:02:46] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:107.170.226.22 - - [14/Nov/2023 07:35:16] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:45.79.181.251 - - [14/Nov/2023 09:53:11] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:45.79.181.251 - - [14/Nov/2023 09:53:11] "[35m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03\x94Ì\x9e\x01$¹9:Ö\x8aî£òDï\x9568\x0c/E¨!ì.çCýðî\x18Y\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:65.49.1.51 - - [14/Nov/2023 10:21:02] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:65.49.1.51 - - [14/Nov/2023 10:21:02] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03§Ì\x15\x1d¹TXÒTê a¼s\x91Zz&"¬ù[C²²¢¤Y\x9b`¸\x13\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:80.66.88.215 - - [14/Nov/2023 13:17:29] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+INFO:werkzeug:80.66.88.215 - - [14/Nov/2023 13:17:29] "[35m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:176.111.174.205 - - [14/Nov/2023 18:01:26] code 400, message Bad request syntax ('\x01\x01æ')
+INFO:werkzeug:176.111.174.205 - - [14/Nov/2023 18:01:26] "[35m[1m\x01\x01æ[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:192.241.197.4 - - [15/Nov/2023 05:07:19] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:192.241.197.4 - - [15/Nov/2023 05:07:19] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x11Ã¡D-á\x0b\x0b/\x00\x87;®YrÃÇ\x8d=ðÜ"è\x0dÐ©\x8eÔÇ5¾\x88\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:69.164.217.74 - - [15/Nov/2023 07:17:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:45.79.172.21 - - [15/Nov/2023 07:18:09] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:172.104.11.34 - - [15/Nov/2023 09:11:23] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:172.104.11.34 - - [15/Nov/2023 09:11:23] "[35m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03Ý\\Q\x0bm¶9\x0f\x1cÀ¬2\x8f£ô\x7fï\x05i\\7Ç/Ò\x82U\x06òó\x91@÷\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:65.49.20.66 - - [15/Nov/2023 11:45:44] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:65.49.20.66 - - [15/Nov/2023 11:45:59] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:65.49.20.66 - - [15/Nov/2023 11:46:03] "GET http://api.ipify.org/?format=json HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://www.shadowserver.org/www.shadowserver.org:443
+ERROR:root:Request Method: CONNECT
+INFO:werkzeug:65.49.20.66 - - [15/Nov/2023 11:46:05] "[35m[1mCONNECT www.shadowserver.org:443 HTTP/1.1[0m" 500 -
+ERROR:werkzeug:92.63.196.170 - - [15/Nov/2023 12:03:06] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00')
+INFO:werkzeug:92.63.196.170 - - [15/Nov/2023 12:03:06] "[35m[1m\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:65.49.1.37 - - [15/Nov/2023 13:20:21] code 400, message Bad request syntax ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03r±')
+INFO:werkzeug:65.49.1.37 - - [15/Nov/2023 13:20:21] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03r±[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:167.248.133.51 - - [15/Nov/2023 17:45:12] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:167.248.133.51 - - [15/Nov/2023 17:45:13] code 505, message Invalid HTTP version (2.0)
+INFO:werkzeug:167.248.133.51 - - [15/Nov/2023 17:45:13] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:167.248.133.51 - - [15/Nov/2023 17:45:14] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:185.165.190.34 - - [15/Nov/2023 19:52:09] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:185.165.190.34 - - [15/Nov/2023 19:52:09] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+ERROR:werkzeug:31.148.147.72 - - [16/Nov/2023 00:13:17] code 400, message Bad request syntax ("\x00\x00\x00àZ\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x05\x01=K\x00\x00\x01\x01h\x01¨À¸\x97ZQy&/\x00admin\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x000\x81\x89\x02\x81\x81\x00ÉY\x8eÄ*g½$\x8eæ¦Énà\x83ï\x18\x82(\x83'ãRón\x83¯\x88å,\x16^»àÒ")
+INFO:werkzeug:31.148.147.72 - - [16/Nov/2023 00:13:17] "[35m[1m\x00\x00\x00àZ\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x05\x01=K\x00\x00\x01\x01h\x01¨À¸\x97ZQy&/\x00admin\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x000\x81\x89\x02\x81\x81\x00ÉY\x8eÄ*g½$\x8eæ¦Énà\x83ï\x18\x82(\x83'ãRón\x83¯\x88å,\x16^»àÒ[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:64.62.197.11 - - [16/Nov/2023 02:11:41] code 400, message Bad request syntax ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03*Õ\x12Ã?\x8b¾\x7fñ8\x05%<Åjþ¯\x9c¬\x17Ü¦ú')
+INFO:werkzeug:64.62.197.11 - - [16/Nov/2023 02:11:41] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03*Õ\x12Ã?\x8b¾\x7fñ8\x05%<Åjþ¯\x9c¬\x17Ü¦ú[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:194.165.16.76 - - [16/Nov/2023 03:13:51] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+INFO:werkzeug:194.165.16.76 - - [16/Nov/2023 03:13:51] "[35m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:45.79.181.179 - - [16/Nov/2023 08:08:06] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:45.79.181.179 - - [16/Nov/2023 08:08:06] "[35m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03fº\x99i}6\x81\x92y\x96îc¸ÜÒª\x95µ^¶:@ë\x18OSCî#1Ð¡\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:47.245.115.171 - - [16/Nov/2023 08:19:47] "GET / HTTP/1.0" 200 -
+INFO:werkzeug:47.245.115.171 - - [16/Nov/2023 08:19:48] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/sitemap.xml
+ERROR:root:Request URL: http://167.71.235.105:8001/robots.txt
+ERROR:root:Request Method: GET
+ERROR:root:Request Method: GET
+INFO:werkzeug:47.245.115.171 - - [16/Nov/2023 08:19:52] "[35m[1mGET /sitemap.xml HTTP/1.1[0m" 500 -
+INFO:werkzeug:47.245.115.171 - - [16/Nov/2023 08:19:52] "[35m[1mGET /robots.txt HTTP/1.1[0m" 500 -
+ERROR:werkzeug:107.170.208.23 - - [16/Nov/2023 08:28:47] code 400, message Bad request syntax ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03|ï')
+INFO:werkzeug:107.170.208.23 - - [16/Nov/2023 08:28:47] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03|ï[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:184.105.139.69 - - [16/Nov/2023 09:02:43] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:184.105.139.69 - - [16/Nov/2023 09:03:00] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:184.105.139.69 - - [16/Nov/2023 09:03:03] "GET http://api.ipify.org/?format=json HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://www.shadowserver.org/www.shadowserver.org:443
+ERROR:root:Request Method: CONNECT
+INFO:werkzeug:184.105.139.69 - - [16/Nov/2023 09:03:06] "[35m[1mCONNECT www.shadowserver.org:443 HTTP/1.1[0m" 500 -
+INFO:werkzeug:130.211.54.158 - - [16/Nov/2023 09:20:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:184.105.247.254 - - [17/Nov/2023 00:34:13] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:184.105.247.254 - - [17/Nov/2023 00:34:29] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:184.105.247.254 - - [17/Nov/2023 00:34:32] "GET http://api.ipify.org/?format=json HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://www.shadowserver.org/www.shadowserver.org:443
+ERROR:root:Request Method: CONNECT
+INFO:werkzeug:184.105.247.254 - - [17/Nov/2023 00:34:34] "[35m[1mCONNECT www.shadowserver.org:443 HTTP/1.1[0m" 500 -
+ERROR:werkzeug:80.66.88.215 - - [17/Nov/2023 04:04:40] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+INFO:werkzeug:80.66.88.215 - - [17/Nov/2023 04:04:40] "[35m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:23] "GET / HTTP/1.0" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://0.0.0.0:8001/nice%20ports,/Trinity.txt.bak
+ERROR:root:Request Method: GET
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:24] "[35m[1mGET /nice%20ports,/Trinity.txt.bak HTTP/1.0[0m" 500 -
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:24] "OPTIONS / HTTP/1.0" 200 -
+ERROR:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:25] code 400, message Bad request version ('RTSP/1.0')
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:25] "[35m[1mOPTIONS / RTSP/1.0[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:30] code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:30] "[35m[1m\x80\x00\x00(rþ\x1d\x13\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86 \x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:36] code 400, message Bad HTTP/0.9 request type ('\x00')
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:36] "[35m[1m\x00\x1e\x00\x06\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x07version\x04bind\x00\x00\x10\x00\x03[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:36] code 400, message Bad request syntax ('HELP')
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:36] "[35m[1mHELP[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:36] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00')
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:36] "[35m[1m\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:37] code 400, message Bad request version ('\x00/\x00')
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:37] "[35m[1m\x16\x03\x00\x00i\x01\x00\x00e\x03\x03U\x1c§ärandom1random2random3random4\x00\x00\x0c\x00/\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:37] code 400, message Bad request syntax ('\x00\x00\x00qj\x81n0\x81k¡\x03\x02\x01\x05¢\x03\x02\x01')
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:37] "[35m[1m\x00\x00\x00qj\x81n0\x81k¡\x03\x02\x01\x05¢\x03\x02\x01[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:43] code 400, message Bad request version ('0.12\x00')
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:43] "[35m[1m\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:48] code 400, message Bad HTTP/0.9 request type ('l\x00')
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:48] "[35m[1ml\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:48] code 400, message Bad request version ('SIP/2.0')
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:48] "[35m[1mOPTIONS sip:nm SIP/2.0[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:49] code 400, message Bad request version ('\x00/\x00')
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:49] "[35m[1m\x16\x03\x00\x00i\x01\x00\x00e\x03\x03U\x1c§ärandom1random2random3random4\x00\x00\x0c\x00/\x00[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:56] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:59] code 400, message Bad request version ('\x89·h.?²\x84\x8dúfÞ\x9c')
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:59] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03ôoÑ­èr;I±5ç{1ÌßÊ>\x87cu\x7f\x9f<Ã\x93fÕ ·ÝÀ\x08 Ëæõeÿ\x1d\x89·h.?²\x84\x8dúfÞ\x9c[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:59] code 400, message Bad request syntax ('\x0e\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00bbbb0100000001')
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 07:32:59] "[35m[1m\x0e\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00bbbb0100000001[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:71.6.134.234 - - [17/Nov/2023 07:33:27] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:71.6.134.234 - - [17/Nov/2023 07:48:56] code 400, message Bad request syntax ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03}jØ\x11')
+INFO:werkzeug:71.6.134.234 - - [17/Nov/2023 07:48:56] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03}jØ\x11[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:216.218.206.67 - - [17/Nov/2023 08:03:33] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03(q\x05Óÿ£\x8cw~\x13ô£\x0f\x81Ý³G\x07Wt\x17ï0\x05²?}âQÖ´\x80\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+INFO:werkzeug:216.218.206.67 - - [17/Nov/2023 08:03:33] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03(q\x05Óÿ£\x8cw~\x13ô£\x0f\x81Ý³G\x07Wt\x17ï0\x05²?}âQÖ´\x80\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:172.104.11.4 - - [17/Nov/2023 08:37:04] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:45.79.181.223 - - [17/Nov/2023 11:11:36] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:45.79.181.223 - - [17/Nov/2023 11:11:36] "[35m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03OÖ\x12\x01éb×0\x1b\x96L\x99¢hE|\x87l&DÅ\x12XT\x09\x1d¥Gj©\x1b\x00\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:195.35.38.225 - - [17/Nov/2023 11:57:43] code 400, message Bad request version ("×\x97r9Ó¾K\x1bvâ\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ")
+INFO:werkzeug:195.35.38.225 - - [17/Nov/2023 11:57:43] "[35m[1m\x16\x03\x01\x02\x00\x01\x00\x01ü\x03\x03]ðàO"Ù·\x11¯á\x8d\x9c!Ç\x09Q¦AÇÂR/%p\x14\x14ûAMaþN j<AÖ\x1fÙÿ\x19\x02#\x86\x19ÂË\x00\x88;u\x83¼ì\x1c×\x97r9Ó¾K\x1bvâ\x00>\x13\x02\x13\x03\x13\x01À,À0\x00\x9fÌ©Ì¨ÌªÀ+À/\x00\x9eÀ$À(\x00kÀ#À'\x00gÀ[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:162.243.136.32 - - [17/Nov/2023 12:56:52] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03Éô·ò;ü_ÛÚ»\x15ÓÏ\x87¥Ü*Ûi\x8aú¹\x81µ[×(ÿÔãM;\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+INFO:werkzeug:162.243.136.32 - - [17/Nov/2023 12:56:52] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03Éô·ò;ü_ÛÚ»\x15ÓÏ\x87¥Ü*Ûi\x8aú¹\x81µ[×(ÿÔãM;\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:89.248.165.95 - - [17/Nov/2023 13:17:20] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+INFO:werkzeug:89.248.165.95 - - [17/Nov/2023 13:17:20] "[35m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:80.66.76.32 - - [17/Nov/2023 13:33:57] code 400, message Bad request version ('\x03\x00(\x00\x04ÿ\x08\x00\x01U\x00\x00\x00MSSQLServer\x00É·\x00\x00')
+INFO:werkzeug:80.66.76.32 - - [17/Nov/2023 13:33:57] "[35m[1m\x12\x01\x004\x00\x00\x01\x00\x00\x00\x15\x00\x06\x01\x00\x1b\x00\x01\x02\x00\x1c\x00\x0c\x03\x00(\x00\x04ÿ\x08\x00\x01U\x00\x00\x00MSSQLServer\x00É·\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:192.241.206.18 - - [17/Nov/2023 15:37:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 19:23:13] "GET / HTTP/1.0" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://0.0.0.0:8001/nice%20ports,/Trinity.txt.bak
+ERROR:root:Request Method: GET
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 19:23:14] "[35m[1mGET /nice%20ports,/Trinity.txt.bak HTTP/1.0[0m" 500 -
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 19:23:15] "OPTIONS / HTTP/1.0" 200 -
+ERROR:werkzeug:172.232.159.13 - - [17/Nov/2023 19:23:15] code 400, message Bad request version ('RTSP/1.0')
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 19:23:15] "[35m[1mOPTIONS / RTSP/1.0[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:172.232.159.13 - - [17/Nov/2023 19:23:20] code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 19:23:20] "[35m[1m\x80\x00\x00(rþ\x1d\x13\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86 \x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:172.232.159.13 - - [17/Nov/2023 19:23:26] code 400, message Bad HTTP/0.9 request type ('\x00')
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 19:23:26] "[35m[1m\x00\x1e\x00\x06\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00\x07version\x04bind\x00\x00\x10\x00\x03[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:172.232.159.13 - - [17/Nov/2023 19:23:26] code 400, message Bad request syntax ('HELP')
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 19:23:26] "[35m[1mHELP[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:172.232.159.13 - - [17/Nov/2023 19:23:26] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00')
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 19:23:26] "[35m[1m\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:172.232.159.13 - - [17/Nov/2023 19:23:26] code 400, message Bad request version ('\x00/\x00')
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 19:23:26] "[35m[1m\x16\x03\x00\x00i\x01\x00\x00e\x03\x03U\x1c§ärandom1random2random3random4\x00\x00\x0c\x00/\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:172.232.159.13 - - [17/Nov/2023 19:23:27] code 400, message Bad request syntax ('\x00\x00\x00qj\x81n0\x81k¡\x03\x02\x01\x05¢\x03\x02\x01')
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 19:23:27] "[35m[1m\x00\x00\x00qj\x81n0\x81k¡\x03\x02\x01\x05¢\x03\x02\x01[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:172.232.159.13 - - [17/Nov/2023 19:23:32] code 400, message Bad request version ('0.12\x00')
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 19:23:32] "[35m[1m\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:172.232.159.13 - - [17/Nov/2023 19:23:37] code 400, message Bad HTTP/0.9 request type ('l\x00')
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 19:23:37] "[35m[1ml\x00\x0b\x00\x00\x00\x00\x00\x00\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:172.232.159.13 - - [17/Nov/2023 19:23:38] code 400, message Bad request version ('SIP/2.0')
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 19:23:38] "[35m[1mOPTIONS sip:nm SIP/2.0[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:172.232.159.13 - - [17/Nov/2023 19:23:40] code 400, message Bad request version ('\x00/\x00')
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 19:23:40] "[35m[1m\x16\x03\x00\x00i\x01\x00\x00e\x03\x03U\x1c§ärandom1random2random3random4\x00\x00\x0c\x00/\x00[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 19:23:43] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:172.232.159.13 - - [17/Nov/2023 19:24:01] code 400, message Bad request syntax ('\x0e\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00bbbb0100000001')
+INFO:werkzeug:172.232.159.13 - - [17/Nov/2023 19:24:01] "[35m[1m\x0e\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00bbbb0100000001[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:62.233.50.179 - - [17/Nov/2023 21:09:29] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+INFO:werkzeug:62.233.50.179 - - [17/Nov/2023 21:09:29] "[35m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:45.200.14.55 - - [18/Nov/2023 03:59:41] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:45.200.14.55 - - [18/Nov/2023 03:59:47] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+ERROR:werkzeug:162.216.150.146 - - [18/Nov/2023 04:19:42] code 400, message Bad request syntax ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03L\x94\x16ã')
+INFO:werkzeug:162.216.150.146 - - [18/Nov/2023 04:19:42] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03L\x94\x16ã[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:162.216.150.146 - - [18/Nov/2023 04:19:43] code 400, message Bad request version ('À(À$À\x14À')
+INFO:werkzeug:162.216.150.146 - - [18/Nov/2023 04:19:43] "[35m[1m\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03á)U".\x8c\x88\x0b\x1bãWÖ1\x81\x82 3\x04\x8dÆq[\x01+í¾tD&ßÞ\x80\x00\x00hÌ\x14Ì\x13À/À+À0À,À\x11À\x07À'À#À\x13À\x09À(À$À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:194.187.176.20 - - [18/Nov/2023 05:31:09] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:194.187.176.244 - - [18/Nov/2023 05:31:10] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:65.49.20.68 - - [18/Nov/2023 06:08:45] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:65.49.20.68 - - [18/Nov/2023 06:09:01] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:65.49.20.68 - - [18/Nov/2023 06:09:04] "GET http://api.ipify.org/?format=json HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://www.shadowserver.org/www.shadowserver.org:443
+ERROR:root:Request Method: CONNECT
+INFO:werkzeug:65.49.20.68 - - [18/Nov/2023 06:09:06] "[35m[1mCONNECT www.shadowserver.org:443 HTTP/1.1[0m" 500 -
+INFO:werkzeug:71.6.199.23 - - [18/Nov/2023 06:37:55] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:71.6.199.23 - - [18/Nov/2023 06:37:56] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:167.248.133.127 - - [18/Nov/2023 08:45:45] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:167.248.133.127 - - [18/Nov/2023 08:45:46] code 505, message Invalid HTTP version (2.0)
+INFO:werkzeug:167.248.133.127 - - [18/Nov/2023 08:45:46] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:167.248.133.127 - - [18/Nov/2023 08:45:47] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+ERROR:werkzeug:62.233.50.179 - - [18/Nov/2023 09:19:55] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+INFO:werkzeug:62.233.50.179 - - [18/Nov/2023 09:19:55] "[35m[1m\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:64.62.197.29 - - [18/Nov/2023 10:38:27] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:64.62.197.29 - - [18/Nov/2023 10:38:27] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x8a\x05­)¥\x87ûi'e\x97­ëu}*Ccè\x7f \x0füÉ*jFµ~¹d\x89\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/api/v2/
+ERROR:root:Request Method: GET
+INFO:werkzeug:193.118.51.138 - - [18/Nov/2023 20:01:12] "[35m[1mGET /api/v2/ HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/ms/1.0/
+ERROR:root:Request Method: GET
+INFO:werkzeug:193.118.51.138 - - [18/Nov/2023 20:01:12] "[35m[1mGET /ms/1.0/ HTTP/1.1[0m" 500 -
+INFO:werkzeug:193.118.51.138 - - [18/Nov/2023 20:01:12] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:192.241.199.70 - - [18/Nov/2023 22:01:55] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:192.241.199.70 - - [18/Nov/2023 22:01:55] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03þu\x1cÚ\x1eí\x87èî\x19\x98¾hKSXS\x86¬w\x98\x14tO%»\x96\x85f\x86°~\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:43.135.123.64 - - [18/Nov/2023 22:23:32] code 400, message Bad request version ('âûuGEº_¯YçP+öPãKyëÖ\x8cdÑ\x00é¢í\x16\x08IRMkÉ-\x7f¾ìµT')
+INFO:werkzeug:43.135.123.64 - - [18/Nov/2023 22:23:32] "[35m[1mÿ¢ÿ\x00ÿ=ÿ­ÿ\x00ÿÑÿØñ­ÿ¾Hû_5ÿ­ñ\x0dlåúp\x037\x95­ÍØ¢m\x06\x83x ç°\x0b¯\x17i\x8f\x83ç¾\x9d¯È\x8b\x86Ä\x96v~9,\x05\x03¨*\x95\x14\x12\x8föp\x98DÊ$ï$¯\x8e¬\x19Â+\x09\x83\x16ÊsÙ\\&'âõú?±\x11\x85\x12Hw\x7fF»¿[âã\x0fÄ&ôÁÂ+}k{/C'qléÓ\x13M©/5\x87j{Î+9õA}(¡ÏzÜ¯¤Ý\x12é\x8d¶ÉR\x84\\Dì\x9ao¸ó\x91\x9bN\x1bO£`\x1f\x8aÜaXaî¾\x87i4\x94ÔÄà\x8a\x9f[·¹`ßeºms]\x0dC\x1f<è-Ñº\x8dÙ,Ô\x1d£oà6£î¶h±¬\x03\x91^êÑ\x12ôIÿ\x97\x9f\x16äáç\x93\x16û¹ç\x95?Æf}ð\x9c\x92\x97£ð\x8f\x0b6éÆ¿K\x84\x89(OÒ&\x80\x1a«4Ó_ Æ¤"öHmÖ6åõ\x8aÁz\x06d`\x1cð²\x90âË\x9fßÈ`L\x00\x90y=ib\x01\x87#\x0f\x0e|æÁ\x9fÖ\x88H\x104~<ØLU\\}÷\x18ÿÉ.`E1ê\x08²}-t\x93Ç\x14à}Ðí\x16R7p$\x08'á\x91ÿ¯\x01Ì\x94"\x1artôq\x8fç)js'\x86X\x05°\x92d¨\x0d?æ\x1a.c(8vü/b"Eý\x1dª\x93kQ6%\x9eOÕ\x8dB\x80\x8bÝG\x0f^ù\x1aÐõýì^ïCû(\x19p<Ý\x9a9\x17ÇÉ\x9eöLæ§t\x9fÚ\x13C´­È\x0b\x94}D\x97\x16¶\x10¯f'\x05\x86!§\x06xqë\x1a\x88 ÞDS\x170´·\\á\x1d\x87C¹ìeªC<\x06¼ØÏfßX\x14­\x13¾\x86\x9czoúP \x860Þ(¤þ`Fè\x93\x96Â½Ë\x01Ë w¨ò\x88mP¬\x88S\x15\x8d\x05\x0c\x0cJ\x92\x85ëøM\x804Ú_\x15Úè\x1eÐ\x9bÌô\x84«\x1aÊ6ñöH\x9a¸Fß'»ïµúÜÃ*\x0e@¥`+þúÞO<Lj\x9cÐ~"TÃNú^ß\x1e\x7fÎ½°@~>Oú´ã ã?\x9eEâ\x1d\x0btÄ?\x1f2¡ÐÅí\x81:×Õ\x0fÌ\x1aWyÊ\x01l\x85\x8c¹´Ù¶¤I\x11ñë\x9e²xH¦¼ìL\x87\x01\x8eÅ$FJeBfb4\x87\x0b.°¨\x19ÆÈ1Ãx\\}äõéª~\x0cÄ\x8cíÍ·æ\x09 âûuGEº_¯YçP+öPãKyëÖ\x8cdÑ\x00é¢í\x16\x08IRMkÉ-\x7f¾ìµT[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:43.135.123.64 - - [18/Nov/2023 22:23:33] code 400, message Bad request version ('\x95aÞ«¨·£§;\x19Þ³×')
+INFO:werkzeug:43.135.123.64 - - [18/Nov/2023 22:23:33] "[35m[1moúÀ¾¸À¤É\x89¢Â\x8f\x83¯\x91\x97¾Í¹Ï¬\x9b°« ¶±ª\x9d\x9c\x9f\x96\x8d\x93Î´³µ\x98Í¦úúúú\x12ýØøúúÂúúúú\x1afìùúúúúûåqòúúúúúúùwh\x97uiºê=Eð\x1b/§XJñ1Y\x0b¿±K\x1f\x00úø¯5YÛ¡¢ à0ÌºU]<\x15\x14ºÇW7c\x02\x98É96\x95\x1cÅ\x164yRç\x8c\x90\x8e\x06\x92wÍé\x0e\x14!\x19\x87KEá\x86 ,)ê\x85_\x16I(\x86\x8b?­Xx×ç¶7\x83ñü;\x83È\x0f®Ý\x1aÊ¿Óð\x98ªÙ=ÐÐÖï«QZ`¼rhc@[\x9czê\x8aJ|\x8fï\x86V\x11Ü»\\øTó=\x9b¯\x11½8\x96­çe~`ovÌ¶ÊÞ·8ÜØ8w9\x91\x8cÑÞ/\x98Ê\x8d%Ü\x85+sb®å&Ê\x08\x06ÿ\x9ev¥\x96í\x0f¼ê2ú\x1f7\x03Ég\x83)TF$H¨Ò¢4\x91\x80«g\x0cF+¿x*w\x19\x01\x0eÿÏ\x1b¨\x9aJrF.\x0b\x9d\x84òî\x80Y\x18Ô\x12þ\x14\x89\x9b\x8c\x9aL6\x17\x09ò5\\íb\x02\x89Í§|ÉzL\x97\x81\x92\x96£Äg´(ãk\x82GkÁ\x90Bæ][á\x02\x9b\x86?Tua\x1càü\x9f\x8dë\x01«ÀåÖ\x98Õà<\x93ê\x00\x8dTé\x05\x04y-G\x0eÅR\x0e\x18ôÁÖ\x8e½i»f¼1Z-ý\x90N\x16\x81\x07C*mk\x11¼Z\x02\x85\x95aÞ«¨·£§;\x19Þ³×[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:43.135.123.64 - - [18/Nov/2023 22:24:03] code 400, message Bad request syntax ('\x02')
+ERROR:werkzeug:43.135.123.64 - - [18/Nov/2023 22:24:03] code 400, message Bad request syntax ('\x00\x00\x00')
+INFO:werkzeug:43.135.123.64 - - [18/Nov/2023 22:24:03] "[35m[1m\x02[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:43.135.123.64 - - [18/Nov/2023 22:24:03] "[35m[1m\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:74.82.47.2 - - [19/Nov/2023 02:11:27] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:74.82.47.2 - - [19/Nov/2023 02:11:27] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x9aGm¯e\x01¡w¾\x0b¨\x83d\x12?GSm\x94î©¦Ãl¸±²,\x9eb¹V\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:64.62.197.232 - - [19/Nov/2023 08:58:31] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:64.62.197.231 - - [19/Nov/2023 08:58:43] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:64.62.197.231 - - [19/Nov/2023 08:58:52] "GET http://api.ipify.org/?format=json HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://www.shadowserver.org/www.shadowserver.org:443
+ERROR:root:Request Method: CONNECT
+INFO:werkzeug:64.62.197.239 - - [19/Nov/2023 08:58:54] "[35m[1mCONNECT www.shadowserver.org:443 HTTP/1.1[0m" 500 -
+ERROR:werkzeug:172.105.128.13 - - [19/Nov/2023 09:58:34] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:172.105.128.13 - - [19/Nov/2023 09:58:34] "[35m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03¥¤\x81@à]#¤\x9e\x15#°r\x05D\x91ã¾I\x17n\x80*iNy\x88Ã\x98f\x0eÉ\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:45.79.181.179 - - [19/Nov/2023 10:35:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:167.248.133.35 - - [19/Nov/2023 15:40:51] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:167.248.133.35 - - [19/Nov/2023 15:40:52] code 505, message Invalid HTTP version (2.0)
+INFO:werkzeug:167.248.133.35 - - [19/Nov/2023 15:40:52] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:167.248.133.35 - - [19/Nov/2023 15:40:53] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+ERROR:werkzeug:107.170.228.46 - - [20/Nov/2023 00:00:47] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:107.170.228.46 - - [20/Nov/2023 00:00:47] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03½\x98È\x8cä\x07\x1dM3é¼¡¨\x9eÄ»ýGMÔº\x03©\x92\x02ð~`CîHá\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:64.62.197.215 - - [20/Nov/2023 07:46:18] code 400, message Bad HTTP/0.9 request type ("\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ßqµ*æY'Ê=\x11\x00ÏQa\x19\x98\x8d¨<ÔÏ\x18ËÓ\x94½OCBÇ\x00)\x00\x00\x1aÀ/À+À\x11À\x07À\x13À")
+INFO:werkzeug:64.62.197.215 - - [20/Nov/2023 07:46:18] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ßqµ*æY'Ê=\x11\x00ÏQa\x19\x98\x8d¨<ÔÏ\x18ËÓ\x94½OCBÇ\x00)\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:45.79.128.205 - - [20/Nov/2023 07:47:50] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:45.79.128.205 - - [20/Nov/2023 07:47:50] "[35m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03ô®\x94± Iä\x80\x88ý@Ùk±\x03Æ<\x8ei|\x80¹*^gâ<¼E¾îó\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:65.49.1.97 - - [20/Nov/2023 11:39:54] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:65.49.1.104 - - [20/Nov/2023 11:40:14] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:65.49.1.102 - - [20/Nov/2023 11:40:20] "GET http://api.ipify.org/?format=json HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://www.shadowserver.org/www.shadowserver.org:443
+ERROR:root:Request Method: CONNECT
+INFO:werkzeug:65.49.1.107 - - [20/Nov/2023 11:40:23] "[35m[1mCONNECT www.shadowserver.org:443 HTTP/1.1[0m" 500 -
+INFO:werkzeug:103.149.26.203 - - [20/Nov/2023 14:34:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:174.138.24.28 - - [20/Nov/2023 14:43:07] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:176.111.174.205 - - [20/Nov/2023 16:46:54] code 400, message Bad request syntax ('\x01\x01æ')
+INFO:werkzeug:176.111.174.205 - - [20/Nov/2023 16:46:54] "[35m[1m\x01\x01æ[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:138.68.208.44 - - [20/Nov/2023 19:42:50] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:89.248.165.87 - - [20/Nov/2023 22:55:12] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00')
+INFO:werkzeug:89.248.165.87 - - [20/Nov/2023 22:55:12] "[35m[1m\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:107.170.252.59 - - [21/Nov/2023 00:42:56] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:107.170.252.59 - - [21/Nov/2023 00:42:56] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03å\x1eX\x15¨Ê\x0fÊ\x16S»]u_ùª%½\x9e5\x7fBÕèußû\x11(Ë]e\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:216.218.206.68 - - [21/Nov/2023 02:11:28] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:216.218.206.68 - - [21/Nov/2023 02:11:28] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x17\x8ch\x94^æm»\x90\x12\x86Q\x1dÏ\x94êþëø×,vl²KÁ+\x11³¦ë^\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:192.155.88.231 - - [21/Nov/2023 07:33:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:45.79.181.179 - - [21/Nov/2023 07:33:49] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:172.105.128.13 - - [21/Nov/2023 09:35:31] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:172.105.128.13 - - [21/Nov/2023 09:35:31] "[35m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03â¸¥äË9\x8eV(ón:ÿÛfÇÀÛqÖ\x9c)ò\x9fr\x9c\x11.\x9cmoW\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:71.6.134.232 - - [21/Nov/2023 23:05:27] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:71.6.134.232 - - [21/Nov/2023 23:20:56] code 400, message Bad request version ('*F\x9d\\þ')
+INFO:werkzeug:71.6.134.232 - - [21/Nov/2023 23:20:56] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03@\x0cÃ\x1fF$u[«åh%ø\x14\x16è.°\x0b¥ý>\x05\x83Ã+\x8dmtÒÙl ¬Û\x18DÂ\x9e\x83\x7fU\x0d*F\x9d\\þ[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:198.199.95.67 - - [22/Nov/2023 03:33:39] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:198.199.95.67 - - [22/Nov/2023 03:33:39] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x1fòÏ£¹zXD»\x11Ö\x11\x01áÿAØ@ÐÄ°÷Þ\x8fCKIÒ\x1a\x0f#ò\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:162.142.125.213 - - [22/Nov/2023 03:39:52] "GET / HTTP/1.1" 200 -
+ERROR:werkzeug:162.142.125.213 - - [22/Nov/2023 03:39:52] code 505, message Invalid HTTP version (2.0)
+INFO:werkzeug:162.142.125.213 - - [22/Nov/2023 03:39:52] "[35m[1mPRI * HTTP/2.0[0m" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:162.142.125.213 - - [22/Nov/2023 03:39:53] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+ERROR:werkzeug:43.192.44.199 - - [22/Nov/2023 06:29:27] code 400, message Bad request syntax ('\x01I20100')
+INFO:werkzeug:43.192.44.199 - - [22/Nov/2023 06:29:27] "[35m[1m\x01I20100[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:172.105.128.13 - - [22/Nov/2023 08:20:29] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:172.105.128.13 - - [22/Nov/2023 08:20:29] "[35m[1m\x16\x03\x01\x00\x85\x01\x00\x00\x81\x03\x03ª¼b\x96\x86\x8c¿ÛÉú%F'\x88ý\x0bã>oÕ2£²±ç\x8a¯sá.D\x1e\x00\x00 À/À0À+À,Ì¨Ì©À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:65.49.1.35 - - [22/Nov/2023 08:56:27] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:65.49.1.28 - - [22/Nov/2023 08:56:35] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:65.49.1.35 - - [22/Nov/2023 08:56:37] "GET http://api.ipify.org/?format=json HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://www.shadowserver.org/www.shadowserver.org:443
+ERROR:root:Request Method: CONNECT
+INFO:werkzeug:65.49.1.27 - - [22/Nov/2023 08:56:40] "[35m[1mCONNECT www.shadowserver.org:443 HTTP/1.1[0m" 500 -
+ERROR:werkzeug:176.111.174.205 - - [22/Nov/2023 10:20:30] code 400, message Bad request syntax ('\x01\x01æ')
+INFO:werkzeug:176.111.174.205 - - [22/Nov/2023 10:20:30] "[35m[1m\x01\x01æ[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:124.156.238.47 - - [22/Nov/2023 10:28:15] code 400, message Bad request version ('À\x13À')
+INFO:werkzeug:124.156.238.47 - - [22/Nov/2023 10:28:15] "[35m[1m\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03I\x06²ù¼\x99iÀYûøºe-\x83Ud]\x0e\x8d·b8´gÆÝ9dZ8f gÁ\x81i³öòË°©\x19NÖ½\x95g|püé<Z¡\x90T·é¥8'O;\x00&À+À/À,À0Ì©Ì¨À\x09À\x13À[0m" HTTPStatus.BAD_REQUEST -
+INFO:werkzeug:124.156.238.47 - - [22/Nov/2023 10:28:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:36.99.136.129 - - [22/Nov/2023 10:28:46] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://167.71.235.105:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:36.99.136.128 - - [22/Nov/2023 10:28:47] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:36.99.136.137 - - [22/Nov/2023 10:28:48] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://prelegant.mydevfactory.com:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:36.99.136.136 - - [22/Nov/2023 10:28:49] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:36.99.136.137 - - [22/Nov/2023 10:28:50] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://designcad.mydevfactory.com:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:36.99.136.128 - - [22/Nov/2023 10:28:50] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:36.99.136.137 - - [22/Nov/2023 10:28:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:36.99.136.129 - - [22/Nov/2023 10:28:51] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://usflowrow.mydevfactory.com:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:36.99.136.137 - - [22/Nov/2023 10:28:51] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://euflowrow.mydevfactory.com:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:36.99.136.128 - - [22/Nov/2023 10:28:51] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:111.7.100.35 - - [22/Nov/2023 10:29:12] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://worldflowrow.mydevfactory.com:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:111.7.100.33 - - [22/Nov/2023 10:29:13] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:111.7.96.159 - - [22/Nov/2023 10:29:17] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://doublecad.mydevfactory.com:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:111.7.96.159 - - [22/Nov/2023 10:29:18] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:211.95.50.8 - - [22/Nov/2023 10:29:18] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://dev8.mydevfactory.com:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:211.95.50.7 - - [22/Nov/2023 10:29:19] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:111.7.100.34 - - [22/Nov/2023 10:29:26] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://flowrow.mydevfactory.com:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:111.7.100.35 - - [22/Nov/2023 10:29:27] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+INFO:werkzeug:36.99.136.136 - - [22/Nov/2023 10:29:40] "GET / HTTP/1.1" 200 -
+ERROR:root:An error occurred: 404 Not Found: The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.
+ERROR:root:Request URL: http://mecco.mydevfactory.com:8001/favicon.ico
+ERROR:root:Request Method: GET
+INFO:werkzeug:36.99.136.136 - - [22/Nov/2023 10:29:41] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+ERROR:werkzeug:64.62.197.34 - - [22/Nov/2023 10:36:35] code 400, message Bad request version ('À\x14À')
+INFO:werkzeug:64.62.197.34 - - [22/Nov/2023 10:36:35] "[35m[1m\x16\x03\x01\x00{\x01\x00\x00w\x03\x03í"h=©(o\x03ð1ÒïË\x12MC`\x04\x84/\x85,6\x14Ëb¢{ûéf\x03\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\x09À\x14À[0m" HTTPStatus.BAD_REQUEST -
+ERROR:werkzeug:92.63.196.76 - - [22/Nov/2023 10:38:53] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00')
+INFO:werkzeug:92.63.196.76 - - [22/Nov/2023 10:38:53] "[35m[1m\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00[0m" HTTPStatus.BAD_REQUEST -
